@@ -1,0 +1,8 @@
+name: FastGM
+author: N3YuT9j
+version: 1.0
+
+main: de.n3yut9j.fastgm.main.FastGm
+
+commands:
+     gm:
